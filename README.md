@@ -7,3 +7,7 @@ This repo contains a simple Dagger `helloworld.cue` file, any needed dagger & cu
 dagger do
 dagger do hello --log-format plain
 ```
+
+### Build you own Jenkins Controller and Agent images
+
+Find everything you need in `build_jenkins`.
